@@ -14,8 +14,3 @@
 
 ---
 
-## 📌 Featured Projects
-- [WeatherApp](https://github.com/sakshigupta67/WeatherApp) - A cool JavaScript app to check the weather! ☀️
-- [TravelGrid](https://github.com/sakshigupta67/TravelGrid) - A forked project to explore travel adventures! ✈️
-
----
