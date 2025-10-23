@@ -69,8 +69,8 @@
 
 <div align="center">
 
-### 🌟 GSSoC 2025 Contributor
-*Active participant in GirlScript Summer of Code 2025*
+### 🌟 GirlScript Summer of Code 2025
+*🏆 Top 1% Contributor (Rank 21)   📅 [July–October]*
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: nowrap; overflow-x: auto;">
   
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1" style="height: 80px;" />
