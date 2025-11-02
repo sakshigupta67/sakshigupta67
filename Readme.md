@@ -19,7 +19,8 @@
 
 - 💻 **Full Stack Developer** specializing in **MERN Stack**  
 - 👯 Looking to collaborate on **Open Source Projects**  
-- 🎯 **GSSoC'25 Contributor** - Contributing to open source excellence  
+- 🎯 **Rank #21 @ GSSoC 2025**
+
 
 ---
 
