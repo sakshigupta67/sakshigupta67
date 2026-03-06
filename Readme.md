@@ -42,6 +42,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Styling & Tools
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,16 +59,11 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshigupta67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" width="400" style="vertical-align:top; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigupta67&theme=tokyonight&hide_border=true" height="160" width="400" style="vertical-align:top;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Chaubey03&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
 
 
 ---
