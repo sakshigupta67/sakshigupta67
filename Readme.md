@@ -93,17 +93,6 @@
 
 <div align="center">
 
-##  GirlScript Summer of Code 2025
-*🏆 Top 1% Contributor (Rank 21)   📅 [July–October]*
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: nowrap; overflow-x: auto;">
-  
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3" style="height: 80px;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4" style="height: 80px;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
- 
-</div>
 
 ## Hactoberfest 2025
 *🏆 Super Contributor [50+ Accepted PRs]*
@@ -118,7 +107,20 @@
 <!-- Animated Connect Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Let's+Connect!+🚀;Open+to+Collaboration+and+Opportunities" alt="Typing Animation" />
 
-<br/>
+<br/>## 🏆 GirlScript Summer of Code 2025
+
+<p align="center">
+  <i>🏆 Top 1% Contributor (Rank 21) &nbsp; | &nbsp; 📅 July–October 2025</i>
+</p>
+
+<div align="center">
+  <img src="./assets/1.png" alt="GSSoC Badge 1" width="90" />
+  <img src="./assets/2.png" alt="GSSoC Badge 2" width="90" />
+  <img src="./assets/3.png" alt="GSSoC Badge 3" width="90" />
+  <img src="./assets/4.png" alt="GSSoC Badge 4" width="90" />
+  <img src="./assets/5.png" alt="GSSoC Badge 5" width="90" />
+  <img src="./assets/6.png" alt="GSSoC Badge 6" width="90" />
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta67)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshigupta678a@gmail.com)
