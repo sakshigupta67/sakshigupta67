@@ -87,52 +87,53 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Chaubey03&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-
----
+--- 
 ## 🏆 Achievements & Recognition
 
 <div align="center">
 
+### Hacktoberfest 2025
 
-## Hactoberfest 2025
-*🏆 Super Contributor [50+ Accepted PRs]*
+*🏆 Super Contributor — 50+ Accepted PRs*
+
 </div>
 
----
 
-## 📫 Connect With Me  
 
 <div align="center">
 
-<!-- Animated Connect Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Let's+Connect!+🚀;Open+to+Collaboration+and+Opportunities" alt="Typing Animation" />
+###  GirlScript Summer of Code 2025
 
-<br/>## 🏆 GirlScript Summer of Code 2025
-
-<p align="center">
-  <i>🏆 Top 1% Contributor (Rank 21) &nbsp; | &nbsp; 📅 July–October 2025</i>
+<p>
+  <i>🏆 Top 1% Contributor — Rank 21 &nbsp; | &nbsp; 📅 July–October 2025</i>
 </p>
 
-<div align="center">
-  <img src="./assets/1.png" alt="GSSoC Badge 1" width="90" />
-  <img src="./assets/2.png" alt="GSSoC Badge 2" width="90" />
-  <img src="./assets/3.png" alt="GSSoC Badge 3" width="90" />
-  <img src="./assets/4.png" alt="GSSoC Badge 4" width="90" />
-  <img src="./assets/5.png" alt="GSSoC Badge 5" width="90" />
-  <img src="./assets/6.png" alt="GSSoC Badge 6" width="90" />
+<div>
+  <img src="./assets/1.png" alt="GSSoC Badge 1" width="90">
+  <img src="./assets/2.png" alt="GSSoC Badge 2" width="90">
+  <img src="./assets/3.png" alt="GSSoC Badge 3" width="90">
+  <img src="./assets/4.png" alt="GSSoC Badge 4" width="90">
+  <img src="./assets/5.png" alt="GSSoC Badge 5" width="90">
+  <img src="./assets/6.png" alt="GSSoC Badge 6" width="90">
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta67)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshigupta678a@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-gupta11)
-
-**🎓 Institution**: National Institute of Technology, Manipur  
-**💼 Open for**: Collaborations, Projects, and Learning Opportunities  
 </div>
 
 ---
+## 📫 Connect With Me
 
-<!-- Footer with Matching Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:9B59B6&height=120&section=footer&animation=fadeIn" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-gupta11/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta67)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshigupta678a@gmail.com)
+
+**📧 Email**: sakshigupta678a@gmail.com  
+**🎓 Institution**: National Institute of Technology, Manipur  
+**💼 Open for**: Collaborations, Projects, and Learning Opportunities
+
+
+ 
 </div>
+
+---
