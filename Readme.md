@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Waving Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:9B59B6&height=180&section=header&text=Hey%20there!%20I'm%20Sakshi%20Gupta&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,100:00B4D8&height=180&section=header&text=Hey%20there!%20I'm%20Sakshi%20Gupta&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 </div>
 
