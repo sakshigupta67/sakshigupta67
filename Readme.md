@@ -14,18 +14,25 @@
 
 ### 🎓 BTech Computer Science & Engineering | Final Year | NIT Manipur
 
-</div>
+<br>
+
+<table>
+<tr>
+
+<!-- LEFT COLUMN -->
+<td width="55%" valign="middle">
+
+💻 **Full-Stack Developer** specializing in the **MERN Stack**
+
+🤖 Working on **AI-powered enterprise workflow automation**
+
+☁️ Exploring **Azure, Generative AI & Intelligent Systems**
+
+🧠 Passionate about **Software Engineering, Cloud & Open Source**
 
 <br>
 
 <div align="center">
-
-💻 **Full-Stack Developer** specializing in the **MERN Stack**  
-🤖 Working on **AI-powered enterprise workflow automation**  
-☁️ Exploring **Azure, Generative AI & Intelligent Systems**  
-🧠 Passionate about **Software Engineering, Cloud & Open Source**
-
-<br>
 
 <a href="https://portfolio-sakshi-gupta.vercel.app/">
   <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
@@ -33,7 +40,30 @@
 
 </div>
 
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="45%" align="center" valign="middle">
+
+<img 
+  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+  width="320"
+  alt="Coding Animation"
+/>
+
 <br>
+
+<sub>⚡ BUILD • LEARN • CREATE • INNOVATE</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
 
 ## 🚀 Highlights
 
