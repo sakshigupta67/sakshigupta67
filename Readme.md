@@ -94,14 +94,22 @@
 
 ---
 
-## 📈 Contribution Activity
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshigupta67&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigupta67&hide_border=true&background=071A2B&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sakshi's GitHub Streak"/>
+
 </div>
 
---- 
+
+---
 ## 🏆 Achievements & Recognition
+
+
 
 <div align="center">
 
