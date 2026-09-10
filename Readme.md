@@ -10,17 +10,30 @@
 <!-- About Me Section with Animated Elements -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me  
+## 👋 About Me
 
-### 🎓 BTech Computer Science & Engineering | Final Year | NIT Manipur  
+### 🎓 BTech Computer Science & Engineering | Final Year | NIT Manipur
 
 </div>
+
 <br>
 
-💻 **Full-Stack Developer** specializing in the **MERN Stack**
-🤖 Working on **AI-powered enterprise workflow automation**
-☁️ Exploring **Azure, Generative AI & Intelligent Systems**
+<div align="center">
+
+💻 **Full-Stack Developer** specializing in the **MERN Stack**  
+🤖 Working on **AI-powered enterprise workflow automation**  
+☁️ Exploring **Azure, Generative AI & Intelligent Systems**  
 🧠 Passionate about **Software Engineering, Cloud & Open Source**
+
+<br>
+
+<a href="https://portfolio-sakshi-gupta.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
+</a>
+
+</div>
+
+<br>
 
 ## 🚀 Highlights
 
