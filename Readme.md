@@ -8,6 +8,8 @@
 ---
 
 <!-- About Me Section with Animated Elements -->
+<!-- About Me Section -->
+<!-- About Me Section -->
 <div align="center">
 
 ## 👋 About Me
@@ -16,47 +18,63 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 24px;">
+<table>
+<tr>
 
-<div align="left" style="flex: 1 1 55%; min-width: 280px;">
+<!-- LEFT COLUMN -->
+<td width="55%" valign="middle">
+
+<div align="left">
 
 💻 **Full-Stack Developer** specializing in the **MERN Stack**
 
+<br>
+
 🤖 Working on **AI-powered enterprise workflow automation**
+
+<br>
 
 ☁️ Exploring **Azure, Generative AI & Intelligent Systems**
 
-🧠 Passionate about **Software Engineering, Cloud & Open Source**
+<br>
 
-<p align="center">
-  <a href="https://portfolio-sakshi-gupta.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
-  </a>
-</p>
+🧠 Passionate about **Software Engineering, Cloud & Open Source**
 
 </div>
 
-<div align="center" style="flex: 1 1 45%; min-width: 240px;">
+<br>
+
+<div align="center">
+
+<a href="https://portfolio-sakshi-gupta.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
+</a>
+
+</div>
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="45%" align="center" valign="middle">
 
 <img
   src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-  width="100%"
-  style="max-width: 320px; height: auto;"
+  width="320"
   alt="Coding Animation"
 />
 
-<br>
+<br><br>
 
 <sub>⚡ BUILD • LEARN • CREATE • INNOVATE</sub>
 
-</div>
+</td>
 
-</div>
+</tr>
+</table>
 
 </div>
 
 <br>
-
 
 ## 🚀 Highlights
 
