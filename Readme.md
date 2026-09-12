@@ -16,7 +16,9 @@
 
 <br>
 
-<div align="left">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 24px;">
+
+<div align="left" style="flex: 1 1 360px; min-width: 280px;">
 
 💻 **Full-Stack Developer** specializing in the **MERN Stack**
 
@@ -26,26 +28,30 @@
 
 🧠 Passionate about **Software Engineering, Cloud & Open Source**
 
-</div>
-
 <p align="center">
   <a href="https://portfolio-sakshi-gupta.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="100%"
-    style="max-width: 320px; height: auto;"
-    alt="Coding Animation"
-  />
-</p>
+</div>
 
-<p align="center">
-  <sub>⚡ BUILD • LEARN • CREATE • INNOVATE</sub>
-</p>
+<div align="center" style="flex: 1 1 280px; min-width: 240px;">
+
+<img
+  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+  width="100%"
+  style="max-width: 320px; height: auto;"
+  alt="Coding Animation"
+/>
+
+<br>
+
+<sub>⚡ BUILD • LEARN • CREATE • INNOVATE</sub>
+
+</div>
+
+</div>
 
 </div>
 
