@@ -18,7 +18,7 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 24px;">
 
-<div align="left" style="flex: 1 1 360px; min-width: 280px;">
+<div align="left" style="flex: 1 1 55%; min-width: 280px;">
 
 💻 **Full-Stack Developer** specializing in the **MERN Stack**
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<div align="center" style="flex: 1 1 280px; min-width: 240px;">
+<div align="center" style="flex: 1 1 45%; min-width: 240px;">
 
 <img
   src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
