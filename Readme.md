@@ -16,11 +16,7 @@
 
 <br>
 
-<table>
-<tr>
-
-<!-- LEFT COLUMN -->
-<td width="55%" valign="middle">
+<div align="left">
 
 💻 **Full-Stack Developer** specializing in the **MERN Stack**
 
@@ -30,35 +26,26 @@
 
 🧠 Passionate about **Software Engineering, Cloud & Open Source**
 
-<br>
-
-<div align="center">
-
-<a href="https://portfolio-sakshi-gupta.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
-</a>
-
 </div>
 
-</td>
+<p align="center">
+  <a href="https://portfolio-sakshi-gupta.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-00B4D8?style=for-the-badge&labelColor=071A2B&logoColor=white" alt="View My Portfolio"/>
+  </a>
+</p>
 
-<!-- RIGHT COLUMN -->
-<td width="45%" align="center" valign="middle">
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    width="100%"
+    style="max-width: 320px; height: auto;"
+    alt="Coding Animation"
+  />
+</p>
 
-<img 
-  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-  width="320"
-  alt="Coding Animation"
-/>
-
-<br>
-
-<sub>⚡ BUILD • LEARN • CREATE • INNOVATE</sub>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <sub>⚡ BUILD • LEARN • CREATE • INNOVATE</sub>
+</p>
 
 </div>
 
